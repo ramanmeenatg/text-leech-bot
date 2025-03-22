@@ -45,6 +45,6 @@ uplod - 🎬 Txt file upload
 </p>
  
 -----
-Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/AshutoshGoswami24)
+Credits: [Gopal Sharma](https://t.me/GopalSharmaTg) [Gopal Sharma](https://github.com/AshutoshGoswami24)
 
 Last Edited on: 06/18/2024
